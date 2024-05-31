@@ -1,2 +1,1 @@
-<span style="color: red;">Hello </span>
-<img src="https://github-profile-trophy.vercel.app/?username=Penguin5681&theme=dracula&no-frame=true&no-bg=false&margin-w=4" align="center" style="width: 100%" />
+[![wakatime](https://wakatime.com/badge/user/d6a875e8-7ded-4c97-94d9-e922bd5db623.svg)](https://wakatime.com/@d6a875e8-7ded-4c97-94d9-e922bd5db623)
